@@ -1,19 +1,10 @@
 ---
 # the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
+icon: fas fa-book
+order: 2
 ---
 
-A collection of books and posts that I have found to be useful in work and life in no particular order.
-
-# posts
-## software
-https://martinfowler.com/articles/is-quality-worth-cost.html
-
-https://boringtechnology.club/
-
-## machine learning
-
+I love to read and I believe there is alot of value in book. This is collection of books that I have found to be useful in work and life in no particular order.
 
 # books
 The Almanack of Naval Ravikant: A Guide to Wealth and Happiness Jorgenson, Eric
