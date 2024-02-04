@@ -1,10 +1,8 @@
 ---
-title: Useful reading
-date: 2024-02-03 17:00:00 -0800
-categories: [Reading, Links]
-tags: [links, useful, reading]     # TAG names should always be lowercase
+# the default layout is 'page'
+icon: fas fa-info-circle
+order: 4
 ---
-
 
 A collection of books and posts that I have found to be useful in work and life in no particular order.
 
