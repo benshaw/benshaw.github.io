@@ -28,7 +28,7 @@ Through this I have developed a communication style where I have a preference fo
 
 
 ## Hobbies:
- - Reading (see my reading [list](https://benshaw.github.io./reading-list/) for more)
+ - Reading (see my reading [list](https://github.com/benshaw/reading) for more)
  - Mountain Biking
  - Rock Climbing
  - Trail running
