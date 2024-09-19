@@ -3,8 +3,10 @@
 - type: github
   icon: "fab fa-github"
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+- type: mastodon
+   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
+   url:  'https://hacky.town/@benashaw'                  # Fill with your Mastodon account page, rel="me" will be applied for verification
+
 
 - type: email
   icon: "fas fa-envelope"
@@ -12,7 +14,7 @@
 
 - type: linkedin
   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-  url:  'https://twitter.com/ben_a_shaw'                  # Fill with your Linkedin homepage
+  url:  'https://www.linkedin.com/in/ben-shaw/'                  # Fill with your Linkedin homepage
 
 - type: rss
   icon: "fas fa-rss"
