@@ -22,7 +22,7 @@ I have worked in a variety of industries but I think working in the Avalanche In
 - You make a plan based on a hypothesis of current conditionas, but you must always be willing to take in new information and reasses as this information becomes available.
    
 Through this I have developed a communication style where I have a preference for:
-- Candid respectful communication, even when it is uncomfortable. ("seeking to understand before being understood")[https://www.franklincovey.com/the-7-habits/habit-5/]
+- Candid respectful communication, even when it is uncomfortable. ["Seek First to Understand, Then to Be Understood"](https://www.franklincovey.com/the-7-habits/habit-5/)
 - Providing information quickly, this means in person communication is not always an option and there is not always time to polish this information fully. This might look like dropping a message in slack with a follow up document later on, rather than writing the document first.
 - Talking about decisions. This includes recording decisions made, but also being willing to revisit or pivot if new information becomes available
 
